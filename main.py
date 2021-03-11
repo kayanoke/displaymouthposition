@@ -1,5 +1,6 @@
 import tkinter
 import pyautogui
+import pynput
 
 def repeat():
     x,y  = pyautogui.position()
